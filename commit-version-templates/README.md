@@ -1,18 +1,17 @@
-# 🏷️ Padrões de Commit e Versionamento
+# 📝 Templates de Documentação
 
-Para manter o histórico do Git limpo, rastreável e permitir a geração automática de Changelogs, adoto o padrão de **Conventional Commits** em conjunto com a ferramenta **`commit-and-tag-version`** (sucessora do `standard-version`).
-
-Esta pasta guarda as configurações prontas para serem plugadas em qualquer repositório.
+Uma boa documentação é o primeiro passo para um projeto sustentável. Esta pasta contém os esqueletos de arquivos Markdown que utilizo para explicar o "o quê", o "porquê" e o "como" das minhas aplicações.
 
 ## 📂 O que tem aqui?
 
-* **`commit-convention.md`**: Um guia rápido (cheatsheet) das tags permitidas nas mensagens de commit. Ex: `feat:`, `fix:`, `chore:`, `docs:`, `test:`. Serve como consulta rápida.
-* **`versionrc-template.md`**: O template de configuração JSON/JS para instruir o `commit-and-tag-version` sobre quais tipos de commit devem aparecer no changelog e quais devem acionar uma mudança de versão (Major, Minor, Patch).
-* **`CHANGELOG-example.md`**: Uma demonstração de como o arquivo final gerado automaticamente deve se parecer.
+* **`README-padrao.md`**: O template genérico e flexível para qualquer tipo de projeto ou script menor.
+* **`README-frontend.md`**: Estrutura otimizada para aplicações visuais. Inclui seções para capturas de tela, guias de componentes (ex: React) e instruções de prototipagem.
+* **`README-backend.md`**: Estrutura pensada para APIs e serviços. Inclui seções para documentação de rotas, modelagem de banco de dados (esquemas SQL/NoSQL) e variáveis de ambiente essenciais.
+* **`PULL_REQUEST_TEMPLATE.md`**: O padrão a ser adicionado na pasta `.github/` dos projetos. Ele cria um checklist automático (testes, lint, QA) na hora de abrir um PR.
+* **`ISSUE_TEMPLATE.md`**: Guias para padronizar o relato de bugs ou solicitação de novas features.
 
 ## 🚀 Como usar
 
-1. No seu projeto principal, instale a ferramenta de versionamento (ex: `npm i -D commit-and-tag-version`).
-2. Copie a configuração do `versionrc-template.md` para criar o arquivo `.versionrc` na raiz do seu projeto.
-3. Siga estritamente as regras de commit listadas no `commit-convention.md`.
-4. Ao finalizar um ciclo de desenvolvimento, rode o script de release para gerar as tags e o changelog de forma mágica!
+1. Ao iniciar um novo projeto, escolha o template de README que melhor se adapta à stack.
+2. Copie o conteúdo do arquivo escolhido.
+3. Cole no `README.md` do seu novo repositório e preencha as lacunas indicadas com as informações do projeto.
