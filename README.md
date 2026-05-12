@@ -15,3 +15,7 @@ Navegue pelas pastas abaixo para acessar os templates específicos:
 
 ---
 *Mantido com foco em produtividade e qualidade de código.*
+
+## 📝 Licença
+
+Esse projeto está sob a licença `<MIT License>`. Veja o arquivo [LICENSE](https://www.google.com/search?q=MitLicense) para mais detalhes.
