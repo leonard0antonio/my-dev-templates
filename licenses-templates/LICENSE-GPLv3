@@ -1,0 +1,44 @@
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2026 (Seu Nome)
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.
+
+  [... Cole aqui o restante do texto oficial da GPLv3 que pode ser encontrado em: https://www.gnu.org/licenses/gpl-3.0.txt ...]
+
+=======================================================================
+COMO APLICAR ESTA LICENÇA AOS SEUS PROGRAMAS (Instruções)
+=======================================================================
+
+Se você desenvolver um novo programa e quiser que ele seja de maior utilidade possível para o público, a melhor forma de atingir isso é torná-lo software livre, que qualquer pessoa pode redistribuir e alterar sob estes termos.
+
+Para fazer isso, anexe os seguintes avisos ao programa:
+
+    <uma linha com o nome do programa e uma breve ideia do que ele faz.>
+    Copyright (C) 2026 (Seu Nome)
+
+    Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo 
+    sob os termos da Licença Pública Geral GNU, conforme publicada pela 
+    Free Software Foundation, tanto a versão 3 da Licença ou (a seu critério) 
+    qualquer versão posterior.
+
+    Este programa é distribuído na esperança de que seja útil, mas SEM 
+    QUALQUER GARANTIA; sem mesmo a garantia implícita de COMERCIABILIDADE 
+    ou ADEQUAÇÃO A UM DETERMINADO FIM. Veja a Licença Pública Geral GNU 
+    para mais detalhes.
