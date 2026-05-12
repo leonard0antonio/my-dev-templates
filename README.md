@@ -18,4 +18,4 @@ Navegue pelas pastas abaixo para acessar os templates específicos:
 
 ## 📝 Licença
 
-Esse projeto está sob a licença `<MIT License>`. Veja o arquivo [LICENSE](https://www.google.com/search?q=MitLicense) para mais detalhes.
+Esse projeto está sob a licença MIT License. Veja o arquivo [LICENSE](https://github.com/leonard0antonio/my-dev-templates/blob/main/LICENSE.md) para mais detalhes.
