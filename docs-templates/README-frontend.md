@@ -81,10 +81,19 @@ Para contribuir com melhorias de UI ou correções de componentes:
 
 ## 🤝 Colaboradores
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/leonard0antonio" title="Leonardo Antonio">
+        <img src="https://avatars.githubusercontent.com/u/169267801?v=4" width="100px;" alt="Foto do leonardo no GitHub"/><br>
+        <sub>
+          <b>Leonardo Antonio</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT/Sua Licença]. Consulte o arquivo `LICENSE` para mais informações.
-
-```
-
-```
