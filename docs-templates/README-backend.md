@@ -1,8 +1,3 @@
-Perfeito! Para o backend, a documentação precisa ter um foco forte na **arquitetura**, na **modelagem de dados**, nas **variáveis de ambiente** e nos **endpoints (rotas)** da API.
-
-Aqui está a adaptação do seu modelo para o **`README-backend.md`**, trazendo exemplos alinhados com tecnologias robustas (como Node.js, TypeScript, bancos relacionais e nuvem):
-
-```markdown
 # ⚙️ <Nome da API / Serviço>
 
 <!-- Badges de Tecnologia e Status -->
@@ -107,10 +102,19 @@ Garantir a qualidade e a segurança do código é essencial neste projeto. Para 
 
 ## 🤝 Colaboradores
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/leonard0antonio" title="Leonardo Antonio">
+        <img src="https://avatars.githubusercontent.com/u/169267801?v=4" width="100px;" alt="Foto do leonardo no GitHub"/><br>
+        <sub>
+          <b>Leonardo Antonio</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT/Sua Licença]. Consulte o arquivo `LICENSE` para mais informações.
-
-```
-
-```
