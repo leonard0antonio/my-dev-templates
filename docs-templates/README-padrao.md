@@ -67,6 +67,18 @@ Para contribuir:
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/leonard0antonio" title="Leonardo Antonio">
+        <img src="https://avatars.githubusercontent.com/u/169267801?v=4" width="100px;" alt="Foto do leonardo no GitHub"/><br>
+        <sub>
+          <b>Leonardo Antonio</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 😄 Seja um dos contribuidores
 
@@ -75,7 +87,3 @@ Quer fazer parte desse projeto? Leia nossas diretrizes de contribuição no arqu
 ## 📝 Licença
 
 Esse projeto está sob a licença `<nome_da_licença>`. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
-
-```
-
-```
