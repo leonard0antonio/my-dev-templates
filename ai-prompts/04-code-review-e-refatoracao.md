@@ -1,8 +1,3 @@
-### 1. Prompt 04: `04-code-review-e-refatoracao.md`
-
-Ideal para quando você escreveu um código que funciona, mas sente que ele está confuso, longo demais ou poderia ser mais eficiente.
-
-```markdown
 # Prompt: Code Review e Refatoração
 
 **Copie o texto abaixo e preencha as informações entre colchetes:**
