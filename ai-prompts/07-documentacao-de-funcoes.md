@@ -1,7 +1,3 @@
-### 4. Prompt 07: `07-documentacao-de-funcoes.md`
-Ideal para quando você precisa documentar uma função complexa, uma rota de API ou um componente, usando padrões como JSDoc, Swagger ou apenas um Markdown limpo.
-
-```markdown
 # Prompt: Documentação de Código (JSDoc / Swagger)
 
 **Copie o texto abaixo e preencha as informações entre colchetes:**
