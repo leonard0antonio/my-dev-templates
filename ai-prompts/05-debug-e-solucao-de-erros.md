@@ -1,7 +1,3 @@
-### 2. Prompt 05: `05-debug-e-solucao-de-erros.md`
-Para aqueles momentos em que o terminal cospe um erro gigante (seja de compilação, um erro de tipagem ou uma falha de execução) e você precisa de ajuda para destrinchar o log.
-
-```markdown
 # Prompt: Debug e Resolução de Erros
 
 **Copie o texto abaixo e preencha as informações entre colchetes:**
