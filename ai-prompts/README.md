@@ -13,6 +13,8 @@ O objetivo é evitar o "problema da tela em branco" no início de um novo projet
 * [**`05-debug-e-solucao-de-erros.md`**](./05-debug-e-solucao-de-erros.md): Para diagnosticar mensagens de erro no terminal e encontrar a correção.
 * [**`06-criacao-de-testes-qa.md`**](./06-criacao-de-testes-qa.md): Para gerar testes unitários ou de integração (Caminho feliz e Edge cases).
 * [**`07-documentacao-de-funcoes.md`**](./07-documentacao-de-funcoes.md): Para gerar documentação técnica, Swagger ou JSDoc de trechos específicos de código.
+* [**`08-postagem-linkedin.md`**](./08-postagem-linkedin.md): Para gerar posts ou comentários curtos, inspiradores e com alto engajamento para a rede profissional.
+* [**`09-analise-e-resumo-projeto.md`**](./09-analise-e-resumo-projeto.md): Para gerar uma análise técnica de uma aplicação, finalizando obrigatoriamente com um micro-resumo de um parágrafo.
 
 ## 🚀 Como usar
 

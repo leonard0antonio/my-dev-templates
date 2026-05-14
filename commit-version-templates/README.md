@@ -18,3 +18,4 @@ Esta pasta guarda as configurações prontas e os guias necessários para plugar
 2. Copie a configuração do [**`versionrc-template.md`**](./versionrc-template.md) para criar o arquivo `.versionrc.json` na raiz do projeto.
 3. Durante o desenvolvimento, siga estritamente as regras de commit listadas no [**`commit-convention.md`**](./commit-convention.md).
 4. Ao finalizar um ciclo de desenvolvimento (sprint), consulte o [**`execucao-e-push.md`**](./execucao-e-push.md) para rodar o script de release, gerar o changelog e subir a nova versão para o GitHub!
+
