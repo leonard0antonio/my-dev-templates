@@ -1,7 +1,3 @@
-### 3. Prompt 06: `06-criacao-de-testes-qa.md`
-Como a garantia de qualidade (QA) e os testes automatizados são fundamentais para um código robusto, este prompt acelera a criação de cenários de teste.
-
-```markdown
 # Prompt: Criação de Testes Automatizados (QA)
 
 **Copie o texto abaixo e preencha as informações entre colchetes:**
