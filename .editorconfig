@@ -1,0 +1,19 @@
+# .editorconfig - Mantém a consistência de formatação entre diferentes editores
+root = true
+
+# Regras para todos os arquivos
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Ignorar espaços em branco no final de arquivos Markdown (necessário para quebras de linha)
+[*.md]
+trim_trailing_whitespace = false
+
+# Arquivos Python geralmente usam 4 espaços
+[*.py]
+indent_size = 4
