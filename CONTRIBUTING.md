@@ -47,5 +47,3 @@ git push origin feature/nome-da-feature
 
 3. Abra um **Pull Request** detalhado apontando para a nossa branch principal (`main`).
 4. Preencha o formulário padrão de Pull Request explicando suas motivações e anexando evidências visuais (se houver).
-
-```
