@@ -1,0 +1,33 @@
+name: Integração Contínua (CI)
+
+# Só vai rodar quando houver um Pull Request para a branch main
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x] # Testa o código em duas versões do Node
+
+    steps:
+    - name: 📥 Baixar o código
+      uses: actions/checkout@v4
+
+    - name: ⚙️ Configurar Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+
+    - name: 📦 Instalar dependências
+      run: npm ci
+
+    - name: 🔎 Verificar formatação e Linter
+      run: npm run lint
+
+    - name: 🧪 Rodar Testes Automatizados
+      run: npm run test
