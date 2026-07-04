@@ -32,5 +32,6 @@ Este repositório serve como minha base de consulta diária. O fluxo de uso é s
 2. Copio o conteúdo do template desejado.
 3. Colo no meu novo projeto e substituo as marcações genéricas (indicadas por `< >`) com o contexto real da aplicação.
 
----
-*Mantido com foco em produtividade e qualidade de código por [Leonardo Antonio](https://github.com/leonard0antonio).*
+## 📝 Licença
+
+Esse projeto está sob a licença MIT License. Veja o arquivo [LICENSE](https://github.com/leonard0antonio/my-dev-templates/blob/main/LICENSE.md) para mais detalhes.
