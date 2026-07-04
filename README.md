@@ -7,18 +7,22 @@ Bem-vindo ao meu "Segundo Cérebro" técnico! 🧠
 
 Este repositório centraliza todos os templates, configurações, bancos de prompts, referências e padrões que utilizo para manter a consistência, a alta qualidade e a velocidade na criação dos meus projetos de software. 
 
-A ideia aqui é não precisar "reinventar a roda" a cada novo repositório, garantindo que boas práticas de engenharia de software estejam presentes desde o primeiro commit.
+A ideia aqui é não precisar "reinventar a roda" a cada novo repositório, garantindo que boas práticas de engenharia de software, automação e gestão de comunidade estejam presentes desde o primeiro commit.
 
 ## 🗂️ Mapa do Repositório
 
 Navegue pelas pastas abaixo para acessar os recursos específicos:
 
 * [**`/docs-templates`**](./docs-templates) 📝
-  * Esqueletos de alta qualidade para `README.md` (Geral, Frontend e Backend), além de templates estruturados para a abertura de Pull Requests e Issues no GitHub.
+  * Esqueletos de alta qualidade para `README.md` (Geral, Frontend e Backend).
+  * Templates estruturados para abertura de Pull Requests e Issues (`bug_report.md` e `feature_request.md`).
+
 * [**`/commit-version-templates`**](./commit-version-templates) 🏷️
   * Regras do padrão **Conventional Commits** e guias completos para implementar versionamento automatizado e geração de `CHANGELOG.md` em diversas linguagens.
+* [**`/config-templates`**](./config-templates) ⚙️
+  * Arquivos de configuração essenciais de ambiente (`.editorconfig`, `.gitignore` padrão) e pipelines de integração contínua (CI/CD) para automação no GitHub Actions.
 * [**`/ai-prompts`**](./ai-prompts) 🤖
-  * Um banco de templates de **Engenharia de Prompts** para acelerar o desenvolvimento com IAs (Setup de projetos, refatoração, documentação, debug, testes e até marketing pessoal).
+  * Um banco de templates de **Engenharia de Prompts** para acelerar o desenvolvimento com IAs (Setup de projetos, refatoração, documentação, debug, testes e criação de posts).
 * [**`/dev-links`**](./dev-links) 🌐
   * Minha curadoria pessoal de links úteis: documentações de sintaxe, plataformas de ensino gratuitas, simuladores de entrevista e ferramentas inovadoras de IA.
 * [**`/licenses-templates`**](./licenses-templates) ⚖️
@@ -29,8 +33,11 @@ Navegue pelas pastas abaixo para acessar os recursos específicos:
 Este repositório serve como minha base de consulta diária. O fluxo de uso é simples:
 
 1. Navego até a pasta que resolve a minha necessidade atual.
-2. Copio o conteúdo do template desejado.
+2. Copio o conteúdo do template ou arquivo de configuração desejado.
 3. Colo no meu novo projeto e substituo as marcações genéricas (indicadas por `< >`) com o contexto real da aplicação.
+
+---
+*Mantido com foco em produtividade, qualidade de código e melhoria contínua por [Leonardo Antonio](https://github.com/leonard0antonio).*
 
 ## 📝 Licença
 
